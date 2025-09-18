@@ -110,7 +110,7 @@ Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichi
 K. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	Utiliser la commande `vi`
 
-> votre commande ?! 
+> vi TESTSLO_LDE_MBY
 
 Q9. dans le répertoire `/home`, pouvez-vous éditez un fichier uniquement avec la commande `vi` 
 
