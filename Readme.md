@@ -97,11 +97,13 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel dossier racine allez-vous le placer (justifiez votre réponse) et quelle commande allez-vous utiliser. 
 
-> votre commande ?! 
+> dans le répertoir home car c'est un répertoire personnel.
+> cd home
+> touch
 
 Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichiers), dans quelle **répertoire racine** vous vous placez ? 
 
-> votre réponse ?!
+> home
 
 
 K. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
