@@ -122,11 +122,12 @@ Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que 
 
 L. Tapez la commande `ls -l /dev/sda` 
 
-![Placer votre capture d'écran]() 
+<img width="404" height="35" alt="image" src="https://github.com/user-attachments/assets/e590c837-99d7-4110-b22a-8434f916799a" />
+
 
 Q11. Que signifie **sda** ? 
 
-> votre réponse ?!
+> c'est le disque entier du VM
 
 Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> voir résultat point 13.
 
