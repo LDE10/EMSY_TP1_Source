@@ -114,11 +114,11 @@ K. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_X
 
 Q9. dans le répertoire `/home`, pouvez-vous éditez un fichier uniquement avec la commande `vi` 
 
-> votre réponse ?!
+> oui
 
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
-> votre réponse ?!
+> oui car éteindre et allumer ne supprime pas les fichiers stockés sur le disque virtuel, et les dossier dans le home sont écrits sur ce disque virtuel.
 
 L. Tapez la commande `ls -l /dev/sda` 
 
