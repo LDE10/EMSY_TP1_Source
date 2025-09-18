@@ -89,9 +89,11 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 <img width="381" height="18" alt="image" src="https://github.com/user-attachments/assets/fa6c4e98-af03-4e09-a6e7-77e75f972448" />
 
-> drwxr-xr-x (d) indique un répertoire rwavec des autorisations de lecture, d'écriture et d'exécution pour le propriétaire.
+> drwxr-xr-x : (d) indique un répertoire (rwx) correspond aux permissions du propriétaire, le r pour la lecture du contenu, w la création ou la suppression de fichiers et sous-répertoires à l'intérieur de ce répertoire, x  l'accès au contenu du répertoire et aux fichiers qu'il contient.
+> r-x correspond au droit pour le groupe : le r autorise la lecture du répertoire, - indique qu'iln'y a pas de permission d'écrir pour le groupe et x autorise l'accès au répertoire.
+> Le deuxième r-x correspond aux droit pour les autres utilisateurs :  le r autorise la lecture du répertoire, - indique qu'iln'y a pas de permission d'écrir pour les autres utilisateurs et x autorise l'accès au répertoire.
 > 1 root root indique le nombre de personne lié au dossier le premier root indique l'utilisateur qui possède le répertoire et le deuxième indique le groupe auquel appartient le répertoire.
-> Le nombre 60 indique l'escpace utilisé en octet, puis la date (mois, jours et enfin heur ou année).
+> Le nombre 60 indique l'escpace utilisé en octet et enfin la date (mois, jours et enfin heur ou année).
 
 J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel dossier racine allez-vous le placer (justifiez votre réponse) et quelle commande allez-vous utiliser. 
 
