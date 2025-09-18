@@ -99,11 +99,11 @@ J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel doss
 
 > dans le répertoir home car c'est un répertoire personnel.
 > cd home
-> touch
+> 
 
 Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichiers), dans quelle **répertoire racine** vous vous placez ? 
 
-> home
+> 
 
 
 K. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
