@@ -74,11 +74,12 @@ Q3. disposition du le clavier français ?
 
 H. Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
-> vore commande ?!
+> cd /
 
 I. Affichez le contenu de la racine avec la commande : `ls –l`	
 
-![Placer votre capture d'écran]() 
+<img width="710" height="404" alt="image" src="https://github.com/user-attachments/assets/5c97f3a0-c94c-4123-941d-8d13d9d3e0c0" />
+
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
