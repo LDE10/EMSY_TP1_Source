@@ -87,7 +87,8 @@ Q5. Que signifie l'option `-l` avec la commande `ls`
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-[Placer votre capture d'écran]()
+<img width="381" height="18" alt="image" src="https://github.com/user-attachments/assets/fa6c4e98-af03-4e09-a6e7-77e75f972448" />
+
 
 > votre réponse ?!
 
