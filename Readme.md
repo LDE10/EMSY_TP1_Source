@@ -32,6 +32,7 @@ E. Choisir un nom d'OS : `Linux - Debian 11.x`
 ![OS name choice](/Images/OS_Choice.jpg) 
 
 F. Nommez la machine virtuelle : `SparkyLinux-VosInitiales` 
+SparkyLinux-LDE
 
 G. Creez un disque virtuel -> capcité : **20GB** 
 
@@ -49,25 +50,26 @@ H. Lancez la machine virtuelle : **Play virtual machine**
 
 G. Lancement du live CD : 
 
-[Placer votre capture d'écran]() 
+<img width="802" height="657" alt="Linux-dep1" src="https://github.com/user-attachments/assets/3de58e06-e4b0-4cd1-aff3-9469650499d5" />
 
 Shell Linux : 
 
-[Placer votre capture d'écran]() 
+<img width="800" height="649" alt="image" src="https://github.com/user-attachments/assets/62ebf67b-bd93-44ca-8836-9e2a062fa6ba" />
+
 
 > **ATTENTION** : par défaut, le clavier est configuré est **Clavier Americain**
 
 Q1. disposition du clavier américain ?
 
-> votre réponse ?!
+> qwerty
 
 Q2. disposition du clavier suisse-romand ?
 
-> votre réponse ?!
+> qwertz
 
 Q3. disposition du le clavier français ? 
 
-> votre réponse ?!
+> azerty
 
 
 H. Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
