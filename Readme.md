@@ -90,8 +90,8 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 <img width="381" height="18" alt="image" src="https://github.com/user-attachments/assets/fa6c4e98-af03-4e09-a6e7-77e75f972448" />
 
 
-> votre réponse ?!
-
+> drwxr-xr-x indique un répertoire avec des autorisations de lecture, d'écriture et d'exécution pour le propriétaire.
+> 
 J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel dossier racine allez-vous le placer (justifiez votre réponse) et quelle commande allez-vous utiliser. 
 
 > votre commande ?! 
