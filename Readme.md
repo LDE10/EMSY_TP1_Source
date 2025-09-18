@@ -83,7 +83,7 @@ I. Affichez le contenu de la racine avec la commande : `ls –l`
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
-> votre réponse ?!
+> Affiche des informations détaillées sur les fichiers(la taille et l'heure de modification)
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
