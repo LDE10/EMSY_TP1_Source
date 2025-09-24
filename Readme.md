@@ -2,7 +2,7 @@
 
 ## Groupe 
 
-- vos noms 
+LDE-VMY
 
 ## But 
 
@@ -91,7 +91,7 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 > drwxr-xr-x : (d) indique un répertoire (rwx) correspond aux permissions du propriétaire, le r pour la lecture du contenu, w la création ou la suppression de fichiers et sous-répertoires à l'intérieur de ce répertoire, x  l'accès au contenu du répertoire et aux fichiers qu'il contient.
 > r-x correspond au droit pour le groupe : le r autorise la lecture du répertoire, - indique qu'iln'y a pas de permission d'écrir pour le groupe et x autorise l'accès au répertoire.
-> Le deuxième r-x correspond aux droit pour les autres utilisateurs :  le r autorise la lecture du répertoire, - indique qu'iln'y a pas de permission d'écrir pour les autres utilisateurs et x autorise l'accès au répertoire.
+> Le deuxième r-x correspond aux droit pour les autres utilisateurs.
 > 1 root root indique le nombre de personne lié au dossier le premier root indique l'utilisateur qui possède le répertoire et le deuxième indique le groupe auquel appartient le répertoire.
 > Le nombre 60 indique l'escpace utilisé en octet et enfin la date (mois, jours et enfin heur ou année).
 
@@ -131,7 +131,14 @@ Q11. Que signifie **sda** ?
 
 Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> voir résultat point 13.
 
-> votre réponse ?!
+> b: indique un fichier de périphérique bloc.
+> rw-rw---- : les permissions du fichier.
+> 1 : le nombre de liens physiques vers le fichier.
+> root : le propriétaire.
+> disk : le group auquel appartient le fichier.
+> 8, 0 : numéros majeur et mineur
+> la date et l'heur
+> et enfin le disque entier
 
 
 ## Tips 
