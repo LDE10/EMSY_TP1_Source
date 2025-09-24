@@ -32,7 +32,7 @@ E. Choisir un nom d'OS : `Linux - Debian 11.x`
 ![OS name choice](/Images/OS_Choice.jpg) 
 
 F. Nommez la machine virtuelle : `SparkyLinux-VosInitiales` 
-SparkyLinux-LDE
+> SparkyLinux-LDE
 
 G. Creez un disque virtuel -> capcité : **20GB** 
 
