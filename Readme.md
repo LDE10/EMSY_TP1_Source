@@ -29,7 +29,6 @@ D. Indiquez le chemin d’accès de l’image iso comme indiqué sous l’image 
 
 E. Choisir un nom d'OS : `Linux - Debian 11.x` 
 
-![OS name choice](/Images/OS_Choice.jpg) 
 
 F. Nommez la machine virtuelle : `SparkyLinux-VosInitiales` 
 > SparkyLinux-LDE
@@ -152,4 +151,82 @@ Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> v
 > $$Tips^4$$ : [commande vi avec ses options](https://www.linuxtricks.fr/wiki/guide-de-sur-vi-utilisation-de-vi)
 
 > $$Tips^5$$ : [éditer un fichier type markdown (.md)](https://ashki23.github.io/markdown-latex.html)
+>
+> Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
+ 
+Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ?
+ 
+Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ?
+ 
+N. Après l’installation de Linux, prenez une capture d’écran du démarrage de votre système (GRUB).
+ 
+O.Trouvez la ou les lignes de commande permettant de changer le clavier (clavier suisse romand trouvable sous « German (Switzerland)) et procédez à la configuration du clavier.
+ 
+P.Testez si l’application « nano » est installée sur votre machine, tapez la commande :
+
+nano -version
+ 
+Q17. À quoi sert « nano » ?
+ 
+Q.Testez si l’application « git » est installée sur votre distribution, si ce n’est pas le cas installez un client git.
+ 
+Q18. Comment savoir si « git » est déjà installé ?
+ 
+Q19. Quelle(s) commande(s) utilisez-vous pour l’installer ?
+ 
+Q20. Que veut dire « apt » ?
+ 
+Q21. Est-ce que cette commande peut être utilisée sur toutes les distributions Linux ?
+ 
+LABO EMSY ETML-ES
+ 
+PBY/NMI/SCA EMSY01 TP1A - InstVMLinux_v2_6.docx 5/5
+
+R.Créez un sous-répertoire « EMSY_TP1_XXX-YYY » dans le répertoire de votre utilisateur. Attention : Ici on veut que l’utilisateur (vous) ait les droits de lecture, d’écriture et d’exécution. Q22. Quel est le répertoire utilisateur ?
+ 
+Q23. Quelles sont les commandes que vous allez utiliser ?
+ 
+S.Dans ce répertoire, tapez la commande :
+
+git clone https://github.com/votreDepot/EMSY_TP1_Source
+ 
+Il faut au préalable que vous ayez mis en place à cette adresse un fork du dépôt fourni.
+ 
+Q24. Qu’observez-vous dans votre répertoire ?
+ 
+T.Editez le fichier source .c avec l’éditeur de texte « nano ».
+
+Réalisez un petit programme en C (par exemple de type « Hello world »).
+ 
+U.Vérifiez si le compilateur « gcc » est bien installé.
+ 
+Notez la version du logiciel.
+ 
+Tapez les commandes suivantes :
+ 
+gcc -Wall -o fichier.o -c fichier.c
+ 
+gcc -o fichier fichier.o
+ 
+Remarque : « fichier » est à remplacer par le nom de votre choix
+ 
+Q25. Quels sont les fichiers qui ont été générés ?
+ 
+V.Entrez la commande suivante :./fichier
+ 
+Q26. Que se passe-t-il ?
+ 
+## Tips
+ 
+> $$Tips^1$$ : sortir de la VM -> appuyer simultanément sur `Ctrl` et `Alt`
+ 
+> $$Tips^2$$ : arrêter la VM proprement -> commande : `shutdown`
+ 
+> $$Tips^3$$ : arrêter la VM pour cause de plantage -> commande : `halt` ou `poweroff`
+ 
+> $$Tips^4$$ : [commande vi avec ses options](https://www.linuxtricks.fr/wiki/guide-de-sur-vi-utilisation-de-vi)
+ 
+> $$Tips^5$$ : [éditer un fichier type markdown (.md)](https://ashki23.github.io/markdown-latex.html)
+ 
+ 
 
