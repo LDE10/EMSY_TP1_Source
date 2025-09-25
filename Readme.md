@@ -152,6 +152,11 @@ Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> v
 
 > $$Tips^5$$ : [éditer un fichier type markdown (.md)](https://ashki23.github.io/markdown-latex.html)
 >
+Q13. Quell est la taille de disque minimum recommandée pour installer la distribution sparky ?
+>Pour l'édition standard 10G au minimum.
+>Pour l'édition Multimédia recommandé à 20G.
+>Et pour la version en ligne (CLI) 2G minimum.
+
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
  
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ?
