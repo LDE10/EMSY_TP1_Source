@@ -99,7 +99,7 @@ J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel doss
 > dans le répertoir home car c'est un répertoire personnel.
 > cd home
 > cd live
-> mkdir ...
+> mkdir EMSY_LDE
 
 Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichiers), dans quelle **répertoire racine** vous vous placez ? 
 
