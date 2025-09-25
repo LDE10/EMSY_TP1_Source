@@ -152,7 +152,7 @@ Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> v
 
 > $$Tips^5$$ : [éditer un fichier type markdown (.md)](https://ashki23.github.io/markdown-latex.html)
 >
-> Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
+Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
  
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ?
  
