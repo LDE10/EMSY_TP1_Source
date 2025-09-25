@@ -21,7 +21,7 @@ B. Sélectionnez **Create a New Virtual Machine**
 
 C. Placez le fichier `.iso` dans une repertoire connu : 
 
-`C:\VosInitiales\VM\ISO`
+`C:\LDE\VM\ISO`
 
 D. Indiquez le chemin d’accès de l’image iso comme indiqué sous l’image ci-dessous :
 
