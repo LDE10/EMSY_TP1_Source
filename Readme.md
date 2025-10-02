@@ -188,6 +188,7 @@ Q19. Quelle(s) commande(s) utilisez-vous pour l’installer ?
 >sudo apt install git
  
 Q20. Que veut dire « apt » ?
+> apt est le gestionnaire d'installation, mettre à jour ou même supprimer des logiciels
  
 Q21. Est-ce que cette commande peut être utilisée sur toutes les distributions Linux ?
  
