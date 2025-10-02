@@ -198,7 +198,8 @@ Q22. Quel est le répertoire utilisateur ?
 >lde
  
 Q23. Quelles sont les commandes que vous allez utiliser ?
->cd home/lde/Desktop
+>cd home/lde
+>mkdir EMSY_TP1_LDE-MBY
  
 S.Dans ce répertoire, tapez la commande :
 
