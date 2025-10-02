@@ -202,34 +202,36 @@ Q23. Quelles sont les commandes que vous allez utiliser ?
 >mkdir EMSY_TP1_LDE-MBY
  
 S.Dans ce répertoire, tapez la commande :
-
 git clone https://github.com/LDE10/EMSY_TP1_Source
  
 Il faut au préalable que vous ayez mis en place à cette adresse un fork du dépôt fourni.
  
 Q24. Qu’observez-vous dans votre répertoire ?
- 
+J'ai mes dossiers .c, images et readme.
+<img width="412" height="68" alt="image" src="https://github.com/user-attachments/assets/ca93754f-ecac-4c8c-908e-823c70c255de" />
+
 T.Editez le fichier source .c avec l’éditeur de texte « nano ».
 
 Réalisez un petit programme en C (par exemple de type « Hello world »).
  
 U.Vérifiez si le compilateur « gcc » est bien installé.
  
-Notez la version du logiciel.
+>gcc (Debian 10.2.1-6) 10.2.1 20210110
  
 Tapez les commandes suivantes :
  
-gcc -Wall -o fichier.o -c fichier.c
+gcc -Wall -o EMSY_TP1.o -c EMSY_TP1.c
  
-gcc -o fichier fichier.o
- 
-Remarque : « fichier » est à remplacer par le nom de votre choix
+gcc -o EMSY_TP1 EMSY_TP1.c
  
 Q25. Quels sont les fichiers qui ont été générés ?
  
 V.Entrez la commande suivante :./fichier
- 
+>EMSY_TP1.o et EMSY_TP1
+<img width="408" height="132" alt="image" src="https://github.com/user-attachments/assets/af7b3c64-4932-4ec2-b66d-7bf6ee7465a9" />
+
 Q26. Que se passe-t-il ?
+>
  
 ## Tips
  
