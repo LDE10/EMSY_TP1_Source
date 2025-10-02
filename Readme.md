@@ -191,14 +191,14 @@ Q20. Que veut dire « apt » ?
 > apt est le gestionnaire d'installation, mettre à jour ou même supprimer des logiciels
  
 Q21. Est-ce que cette commande peut être utilisée sur toutes les distributions Linux ?
- >Non apt fonctionne seulemnt sur Debian, qui est une distribution Linux.
-LABO EMSY ETML-ES
- 
-PBY/NMI/SCA EMSY01 TP1A - InstVMLinux_v2_6.docx 5/5
+>Non apt fonctionne seulemnt sur Debian, qui est une distribution Linux.
 
-R.Créez un sous-répertoire « EMSY_TP1_XXX-YYY » dans le répertoire de votre utilisateur. Attention : Ici on veut que l’utilisateur (vous) ait les droits de lecture, d’écriture et d’exécution. Q22. Quel est le répertoire utilisateur ?
+R.Créez un sous-répertoire « EMSY_TP1_XXX-YYY » dans le répertoire de votre utilisateur. Attention : Ici on veut que l’utilisateur (vous) ait les droits de lecture, d’écriture et d’exécution. 
+Q22. Quel est le répertoire utilisateur ?
+>lde
  
 Q23. Quelles sont les commandes que vous allez utiliser ?
+>cd home/lde/Desktop
  
 S.Dans ce répertoire, tapez la commande :
 
