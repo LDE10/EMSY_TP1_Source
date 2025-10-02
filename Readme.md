@@ -168,6 +168,7 @@ un nom est pour le nom du compte d'utilisateur et le deuxième est le nom de l'a
 <img width="803" height="593" alt="image" src="https://github.com/user-attachments/assets/f765912a-f13d-499e-87b7-30022729f708" />
 
 N. Après l’installation de Linux, prenez une capture d’écran du démarrage de votre système (GRUB).
+![Image](https://github.com/user-attachments/assets/b88b8e87-8465-414b-b303-dec9ce36e294)
 
 O.Trouvez la ou les lignes de commande permettant de changer le clavier (clavier suisse romand trouvable sous « German (Switzerland)) et procédez à la configuration du clavier.
  
