@@ -203,7 +203,7 @@ Q23. Quelles sont les commandes que vous allez utiliser ?
  
 S.Dans ce répertoire, tapez la commande :
 
-git clone https://github.com/votreDepot/EMSY_TP1_Source
+git clone https://github.com/LDE10/EMSY_TP1_Source
  
 Il faut au préalable que vous ayez mis en place à cette adresse un fork du dépôt fourni.
  
