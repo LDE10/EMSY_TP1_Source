@@ -29,7 +29,6 @@ D. Indiquez le chemin d’accès de l’image iso comme indiqué sous l’image 
 
 E. Choisir un nom d'OS : `Linux - Debian 11.x` 
 
-
 F. Nommez la machine virtuelle : `SparkyLinux-VosInitiales` 
 > SparkyLinux-LDE
 
@@ -70,7 +69,6 @@ Q3. disposition du le clavier français ?
 
 > azerty
 
-
 H. Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
 > cd /
@@ -78,7 +76,6 @@ H. Déplacez-vous à la **racine du système** en utilisant la commande suivante
 I. Affichez le contenu de la racine avec la commande : `ls –l`	
 
 <img width="710" height="404" alt="image" src="https://github.com/user-attachments/assets/5c97f3a0-c94c-4123-941d-8d13d9d3e0c0" />
-
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
@@ -102,13 +99,10 @@ J. Créez un répertoire de travail nommé « EMSY_VosInitiales» dans quel doss
 > mkdir EMSY_LDE
 
 Q7. Si vous créez un répertoire de travail (pour éditer/sauvegarder des fichiers), dans quelle **répertoire racine** vous vous placez ? 
-
 > home
-
 
 K. Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	Utiliser la commande `vi`
-
 > vi TESTSLO_LDE_MBY
 
 Q9. dans le répertoire `/home`, pouvez-vous éditez un fichier uniquement avec la commande `vi` 
@@ -122,7 +116,6 @@ Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que 
 L. Tapez la commande `ls -l /dev/sda` 
 
 <img width="404" height="35" alt="image" src="https://github.com/user-attachments/assets/e590c837-99d7-4110-b22a-8434f916799a" />
-
 
 Q11. Que signifie **sda** ? 
 
@@ -139,19 +132,6 @@ Q12. Décrypter la réponse après avoir taper la commande `ls -l /dev/sda` -> v
 > la date et l'heur
 > et enfin le disque entier
 
-
-## Tips 
-
-> $$Tips^1$$ : sortir de la VM -> appuyer simultanément sur `Ctrl` et `Alt` 
-
-> $$Tips^2$$ : arrêter la VM proprement -> commande : `shutdown`
-
-> $$Tips^3$$ : arrêter la VM pour cause de plantage -> commande : `halt` ou `poweroff`
-
-> $$Tips^4$$ : [commande vi avec ses options](https://www.linuxtricks.fr/wiki/guide-de-sur-vi-utilisation-de-vi)
-
-> $$Tips^5$$ : [éditer un fichier type markdown (.md)](https://ashki23.github.io/markdown-latex.html)
->
 Q13. Quell est la taille de disque minimum recommandée pour installer la distribution sparky ?
 >Pour l'édition standard 10G au minimum.
 >Pour l'édition Multimédia recommandé à 20G.
