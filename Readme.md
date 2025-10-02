@@ -176,7 +176,7 @@ P.Testez si l’application « nano » est installée sur votre machine, tapez l
 nano -version
  
 Q17. À quoi sert « nano » ?
- 
+ >C'est un éditeur de texte qui peut être lancé avec une commande
 Q.Testez si l’application « git » est installée sur votre distribution, si ce n’est pas le cas installez un client git.
  
 Q18. Comment savoir si « git » est déjà installé ?
