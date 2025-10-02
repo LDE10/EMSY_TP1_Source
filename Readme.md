@@ -158,13 +158,13 @@ Q13. Quell est la taille de disque minimum recommandée pour installer la distri
 >Et pour la version en ligne (CLI) 2G minimum.
 
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
->C'est un espace de stockage supplémentaire qui se trouve dans la RAM
+>Oui et c'est un espace de stockage supplémentaire qui se trouve dans la RAM
  
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ?
 >Microsoft basic data
  
 Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ?
-un nom est pour le nom du compte d'utilisateur et le deuxième est le nom de l'administrateur
+>Un nom est pour le nom du compte d'utilisateur et le deuxième est le nom de l'administrateur
 <img width="803" height="593" alt="image" src="https://github.com/user-attachments/assets/f765912a-f13d-499e-87b7-30022729f708" />
 
 N. Après l’installation de Linux, prenez une capture d’écran du démarrage de votre système (GRUB).
@@ -172,12 +172,13 @@ N. Après l’installation de Linux, prenez une capture d’écran du démarrage
  
 O.Trouvez la ou les lignes de commande permettant de changer le clavier (clavier suisse romand trouvable sous « German (Switzerland)) et procédez à la configuration du clavier.
 >sudo nano /etc/default/keyboard aller dans la ligne "us" et changé pas ch puis à la ligne en dessous mettre fr pour suisse romand sortir et redémarré la VM.
+<img width="800" height="582" alt="image" src="https://github.com/user-attachments/assets/ea849489-7864-4de0-ba4e-4a6072f6f6bd" />
 
 P.Testez si l’application « nano » est installée sur votre machine, tapez la commande :
+>nano --version
+<img width="492" height="82" alt="image" src="https://github.com/user-attachments/assets/cb5682d5-6162-4006-b50f-0e18a374a12a" />
 
-nano -version
- 
-Q17. À quoi sert « nano » ?restar
+Q17. À quoi sert « nano » ?
 >C'est un éditeur de texte qui peut être lancé avec une commande
 
 Q.Testez si l’application « git » est installée sur votre distribution, si ce n’est pas le cas installez un client git.
@@ -202,22 +203,22 @@ Q23. Quelles sont les commandes que vous allez utiliser ?
 >mkdir EMSY_TP1_LDE-MBY
  
 S.Dans ce répertoire, tapez la commande :
-git clone https://github.com/LDE10/EMSY_TP1_Source
+>git clone https://github.com/LDE10/EMSY_TP1_Source
  
 Il faut au préalable que vous ayez mis en place à cette adresse un fork du dépôt fourni.
  
 Q24. Qu’observez-vous dans votre répertoire ?
-J'ai mes dossiers .c, images et readme.
+>J'ai mes dossiers .c, images et readme.
 <img width="412" height="68" alt="image" src="https://github.com/user-attachments/assets/ca93754f-ecac-4c8c-908e-823c70c255de" />
 
 T.Editez le fichier source .c avec l’éditeur de texte « nano ».
-
+>nano EMSY_TP1.c
 Réalisez un petit programme en C (par exemple de type « Hello world »).
  
 U.Vérifiez si le compilateur « gcc » est bien installé.
- 
 >gcc (Debian 10.2.1-6) 10.2.1 20210110
- 
+ <img width="607" height="86" alt="image" src="https://github.com/user-attachments/assets/bf85bfa4-d2f9-4362-b136-16dc2746cea6" />
+
 Tapez les commandes suivantes :
  
 gcc -Wall -o EMSY_TP1.o -c EMSY_TP1.c
@@ -225,14 +226,14 @@ gcc -Wall -o EMSY_TP1.o -c EMSY_TP1.c
 gcc -o EMSY_TP1 EMSY_TP1.c
  
 Q25. Quels sont les fichiers qui ont été générés ?
- 
-V.Entrez la commande suivante :./fichier
 >EMSY_TP1.o et EMSY_TP1
 <img width="408" height="132" alt="image" src="https://github.com/user-attachments/assets/af7b3c64-4932-4ec2-b66d-7bf6ee7465a9" />
 
+V.Entrez la commande suivante :./fichier
 Q26. Que se passe-t-il ?
->
- 
+>La phrase Hello World que j'ai codé s'affiche
+<img width="444" height="55" alt="image" src="https://github.com/user-attachments/assets/08b2e40d-4d94-49d1-a630-000c128fdbff" />
+
 ## Tips
  
 > $$Tips^1$$ : sortir de la VM -> appuyer simultanément sur `Ctrl` et `Alt`
