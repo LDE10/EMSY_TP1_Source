@@ -191,7 +191,7 @@ Q20. Que veut dire « apt » ?
 > apt est le gestionnaire d'installation, mettre à jour ou même supprimer des logiciels
  
 Q21. Est-ce que cette commande peut être utilisée sur toutes les distributions Linux ?
- 
+ >Non apt fonctionne seulemnt sur Debian, qui est une distribution Linux.
 LABO EMSY ETML-ES
  
 PBY/NMI/SCA EMSY01 TP1A - InstVMLinux_v2_6.docx 5/5
