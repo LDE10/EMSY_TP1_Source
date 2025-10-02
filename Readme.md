@@ -168,14 +168,14 @@ un nom est pour le nom du compte d'utilisateur et le deuxième est le nom de l'a
 <img width="803" height="593" alt="image" src="https://github.com/user-attachments/assets/f765912a-f13d-499e-87b7-30022729f708" />
 
 N. Après l’installation de Linux, prenez une capture d’écran du démarrage de votre système (GRUB).
- 
+
 O.Trouvez la ou les lignes de commande permettant de changer le clavier (clavier suisse romand trouvable sous « German (Switzerland)) et procédez à la configuration du clavier.
  
 P.Testez si l’application « nano » est installée sur votre machine, tapez la commande :
 
 nano -version
  
-Q17. À quoi sert « nano » ?
+Q17. À quoi sert « nano » ?restar
  >C'est un éditeur de texte qui peut être lancé avec une commande
 Q.Testez si l’application « git » est installée sur votre distribution, si ce n’est pas le cas installez un client git.
  
