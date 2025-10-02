@@ -158,11 +158,15 @@ Q13. Quell est la taille de disque minimum recommandée pour installer la distri
 >Et pour la version en ligne (CLI) 2G minimum.
 
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe sur les OS Microsoft Windows ?
+>C'est un espace de stockage supplémentaire qui se trouve dans la RAM
  
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ?
+>Microsoft basic data
  
 Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ?
- 
+un nom est pour le nom du compte d'utilisateur et le deuxième est le nom de l'administrateur
+<img width="803" height="593" alt="image" src="https://github.com/user-attachments/assets/f765912a-f13d-499e-87b7-30022729f708" />
+
 N. Après l’installation de Linux, prenez une capture d’écran du démarrage de votre système (GRUB).
  
 O.Trouvez la ou les lignes de commande permettant de changer le clavier (clavier suisse romand trouvable sous « German (Switzerland)) et procédez à la configuration du clavier.
