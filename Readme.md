@@ -206,6 +206,8 @@ Tapez les commandes suivantes :
 gcc -Wall -o EMSY_TP1.o -c EMSY_TP1.c
  
 gcc -o EMSY_TP1 EMSY_TP1.c
+
+gcc compil le fichier -wall affiche les avertissement
  
 Q25. Quels sont les fichiers qui ont été générés ?
 >EMSY_TP1.o et EMSY_TP1
