@@ -198,7 +198,7 @@ T.Editez le fichier source .c avec l’éditeur de texte « nano ».
 Réalisez un petit programme en C (par exemple de type « Hello world »).
  
 U.Vérifiez si le compilateur « gcc » est bien installé.
->gcc (Debian 10.2.1-6) 10.2.1 20210110
+>gcc --version
  <img width="607" height="86" alt="image" src="https://github.com/user-attachments/assets/bf85bfa4-d2f9-4362-b136-16dc2746cea6" />
 
 Tapez les commandes suivantes :
