@@ -163,6 +163,7 @@ Q17. À quoi sert « nano » ?
 Q.Testez si l’application « git » est installée sur votre distribution, si ce n’est pas le cas installez un client git.
 Q18. Comment savoir si « git » est déjà installé ?
 >git --version
+>Résuéltat obtenu: -bash : git : commande not found
  
 Q19. Quelle(s) commande(s) utilisez-vous pour l’installer ?
 >sudo apt install git
