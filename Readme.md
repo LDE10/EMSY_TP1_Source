@@ -194,7 +194,7 @@ Q24. Qu’observez-vous dans votre répertoire ?
 <img width="412" height="68" alt="image" src="https://github.com/user-attachments/assets/ca93754f-ecac-4c8c-908e-823c70c255de" />
 
 T.Editez le fichier source .c avec l’éditeur de texte « nano ».
->nano EMSY_TP1.c
+>sudo nano EMSY_TP1.c
 Réalisez un petit programme en C (par exemple de type « Hello world »).
  
 U.Vérifiez si le compilateur « gcc » est bien installé.
