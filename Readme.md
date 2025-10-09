@@ -150,7 +150,7 @@ N. Après l’installation de Linux, prenez une capture d’écran du démarrage
 ![Image](https://github.com/user-attachments/assets/b88b8e87-8465-414b-b303-dec9ce36e294)
  
 O.Trouvez la ou les lignes de commande permettant de changer le clavier (clavier suisse romand trouvable sous « German (Switzerland)) et procédez à la configuration du clavier.
->sudo nano /etc/default/keyboard aller dans la ligne "us" et changé pas ch puis à la ligne en dessous mettre fr pour suisse romand sortir et redémarré la VM.
+>sudo nano /etc/default/keyboard aller dans la ligne "us" et changé par ch puis à la ligne en dessous mettre fr pour suisse romand sortir et redémarré la VM.
 <img width="800" height="582" alt="image" src="https://github.com/user-attachments/assets/ea849489-7864-4de0-ba4e-4a6072f6f6bd" />
 
 P.Testez si l’application « nano » est installée sur votre machine, tapez la commande :
