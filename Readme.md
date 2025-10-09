@@ -172,7 +172,7 @@ Q20. Que veut dire « apt » ?
 > apt est le gestionnaire d'installation, mettre à jour ou même supprimer des logiciels
  
 Q21. Est-ce que cette commande peut être utilisée sur toutes les distributions Linux ?
->Non apt fonctionne seulement sur Debian, qui est une distribution Linux.
+>Non apt fonctionne seulement sur les distributions basées sur Debian, ex: sparky Linux, ubuntu etc.
 
 R.Créez un sous-répertoire « EMSY_TP1_XXX-YYY » dans le répertoire de votre utilisateur. Attention : Ici on veut que l’utilisateur (vous) ait les droits de lecture, d’écriture et d’exécution. 
 Q22. Quel est le répertoire utilisateur ?
