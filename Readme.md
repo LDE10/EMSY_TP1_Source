@@ -181,6 +181,8 @@ Q22. Quel est le répertoire utilisateur ?
 Q23. Quelles sont les commandes que vous allez utiliser ?
 >cd home/lde
 >mkdir EMSY_TP1_LDE-MBY
+><img width="448" height="66" alt="image" src="https://github.com/user-attachments/assets/5e8faa0a-72cd-4a10-8fbc-e73e093c7e51" />
+
  
 S.Dans ce répertoire, tapez la commande :
 >git clone https://github.com/LDE10/EMSY_TP1_Source
